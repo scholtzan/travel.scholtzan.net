@@ -1,0 +1,31 @@
+baseurl = "http://travel.scholtzan.net/"
+languageCode = "en-us"
+title = "travel.scholtzan.net"
+canonifyurls = true
+PygmentsCodeFences = true
+pygmentsuseclasses = false
+pygmentsstyle = "colorful"
+pluralizeListTitles = false
+builddrafts = false
+Paginate = 100
+# defaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = true
+
+# [[menu.main]]
+#     name = "English"
+#     weight = -1
+#     identifier = "en"
+#
+# [[menu.main]]
+#     name = "Deutsch"
+#     weight = -1
+#     identifier = "de"
+
+# [Languages]
+# [Languages.en]
+# title = "Travel Blog"
+# weight = 1
+#
+# [Languages.de]
+# title = "Reiseblog"
+# weight = 0
