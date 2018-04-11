@@ -7,7 +7,7 @@ tags = ["General"]
 
 In the following I will provide some details about what I prepared and organized before coming to South Korea. I think this information might be particularly useful for students who also want to do an exchange semester. Some of the steps might be very specific for an exchange semester in South Korea but I think most of them can be applied to exchange semesters in general.
 
-# Application
+## Application
 
 After making the decision to study one semester abroad and choosing a country, it is beneficial to check if your home university has collaborations with universities in the chosen country. Usually, if they do, the tuition will be waived and the home universities already have some useful information and experience reports about the exchange. Next, a university for which to apply has to be selected. I chose Sungkyunkwan University because it offered a lot of computer science courses in English and it was also close to Seoul.
 
@@ -15,13 +15,13 @@ The application usually consists of a letter of motivation, your transcripts and
 
 After getting the letter of acceptance, it is time to look and apply for scholarships. Living in Seoul can be quite expensive so it's good to get at least small financial support. I applied for the [PROMOS scholarship](https://www.tu-chemnitz.de/international/outgoing/promos/index.php) and was lucky enough to get selected for it. But there are many other scholarships out there.
 
-# Immigration, Visa and Paperwork
+## Immigration, Visa and Paperwork
 
 For me it took several weeks until I received the official letter of admission from Sungkyunkwan University. This letter is one of the crucial documents when applying for the student Visa. Other required documents are listed on the website of the [South Korean embassy in Germany](http://deu.mofa.go.kr/worldlanguage/europe/deu/visa/issuance/index.jsp). It is also required to fill out a form with general personal information. The only thing that was confusing for me in this form was that I should state my Korean address. However, I didn't have a accommodation at this time and after some (longer) research I found out that I can fill it out with "Undecided".
 
 All of the documents must be personally brought to one of the embassies in Germany. The entire process in the embassy took only ten minutes. In addition to all the documents, it is also required to provide an stamped envelope that can be send as registered mail ("Einschreiben"). This envelope is used to send back the passport which will then contain the issued Visa. In my case, it took only three days until I had my passport back.
 
-# Travel and Accommodation
+## Travel and Accommodation
 
 Right after receiving my Visa, I booked a flight from Germany to Incheon International Airport. I decided to fly with Lufthansa and bought a round-trip ticket for around 770€. First, I wanted to buy a one-way ticket, however these were more than 3 times as expensive.
 
@@ -29,13 +29,13 @@ At some point, the International Office of Sungkyunkwan University did send a no
 
 The dormitory also required all students to submit a tuberculosis test. I went to the health office ("Gesundheitsamt") for a skin test. The result was in German only but the dormitory did not complain about my "unofficial" English translation.
 
-# Health and Insurances
+## Health and Insurances
 
 Sungkyunkwan University requires all exchange students to have a foreign health insurance. Most travel health insurances are only valid for 56 days, so I bought my foreign health insurance from [HanseMerkur](https://www.hansemerkur.de/reiseversicherung-schueler-studenten) that is specifically for students who study some time abroad. I also bought a liability insurance there.
 
 Even before submitting my application for the exchange semester, I checked the recommended vaccinations on the webpage of ["Centrum für Reisemedizin"](http://www.crm.de/). Some vaccinations need to be refreshed after several months so it is good to start getting them early. It was quite hard for me to find a doctor that was willing to give me these vaccinations. The health office didn't have any free appointments left. Fortunately, after many calls I finally found a doctor in reasonable proximity who was specialized in tropical medicine and able to give me these vaccinations over the course of several months. My German health insurance did fully refund all of the costs afterwards.
 
-# Other things to organize
+## Other things to organize
 
 The things previously mentioned are probably the most important ones. Other things that I also organized are listed in the following.
 
