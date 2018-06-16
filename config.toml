@@ -1,4 +1,4 @@
-baseurl = "http://travel.scholtzan.net/"
+baseurl = "https://travel.scholtzan.net/"
 languageCode = "en-us"
 title = "travel.scholtzan.net"
 canonifyurls = true
