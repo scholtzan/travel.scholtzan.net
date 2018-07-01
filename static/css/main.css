@@ -408,9 +408,8 @@ footer .copyright {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 15px;
-  border-bottom: 1px solid #eee;
-  text-align: justify;
+  padding: 3px;
+  text-align: left;
 }
 
 .post-preview:last-child {
@@ -429,7 +428,7 @@ footer .copyright {
 }
 
 .post-preview .post-title {
-  font-size: 150%;
+  font-size: 120%;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -440,9 +439,18 @@ footer .copyright {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-style: italic;
+  font-style: bold;
+  font-family: "Inconsolata";
   margin: 0 0 10px;
 }
+
+.post-preview .post-meta::after,
+.post-heading .post-meta::after {
+  color: #808080;
+  font-style: bold;
+  content: ">>";
+}
+
 .post-preview .post-read-more {
   font-weight: 800;
 }

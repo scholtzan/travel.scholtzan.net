@@ -2,6 +2,7 @@
 title = "The War Memorial of Korea"
 date = "2017-03-23"
 type = "post"
+categories = ["korea"]
 tags = ["Museum", "Korea"]
 +++
 

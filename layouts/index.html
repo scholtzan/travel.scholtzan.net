@@ -9,33 +9,37 @@
 
     <div role="main" class="container main-content">
       <h1>Travel Blog</h1>
-
       <div class="row">
         <div class="posts-list">
           {{ $pag := .Paginate (where .Data.Pages "Type" "post") }}
-          {{ range $pag.Pages }}
-          <article class="post-preview">
-            <a href="{{ .Permalink }}">
-        	  <h2 class="post-title">{{ .Title }}</h2>
+          <h2>Canada</h2>
+          {{ range $pag.Pages}}
+              {{ if in .Params.tags "Canada"}}
+            <article class="post-preview">
+              <span class="post-meta">
+                {{ .Date.Format "2006-01-02" }}
+              </span>
+              <a href="{{ .Permalink }}">
+              <span class="post-title">{{ .Title }}</span>
+              </a>
 
-        	  {{ if .Params.subtitle }}
-        	  <h3 class="post-subtitle">
-        	    {{ .Params.subtitle }}
-        	  </h3>
-        	  {{ end }}
-            </a>
+             </article>
+            {{ end }}
+            {{ end }}
+          <h2>Korea</h2>
+            {{ range $pag.Pages}}
+              {{ if in .Params.tags "Korea"}}
+                <article class="post-preview">
+                  <span class="post-meta">
+                    {{ .Date.Format "2006-01-02" }}
+                  </span>
+                  <a href="{{ .Permalink }}">
+              	  <span class="post-title">{{ .Title }}</span>
+                  </a>
 
-            <p class="post-meta">
-              Posted on {{ .Date.Format "2006-01-02" }}
-            </p>
-
-            <div class="post-entry">
-              {{ .Summary }}
-        	  <a href="{{ .Permalink }}" class="post-read-more">[Read&nbsp;More]</a>
-            </div>
-
-           </article>
-          {{ end }}
+                 </article>
+              {{ end }}
+            {{ end }}
         </div>
 
         {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
