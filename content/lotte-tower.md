@@ -2,7 +2,7 @@
 title = "Lotte World Tower Grand Opening"
 date = "2017-04-09"
 type = "post"
-tags = ["Fireworks"]
+tags = ["Fireworks", "Korea"]
 +++
 
 Last weekend the grand opening of the Lotte World Tower in Seoul was celebrated with a huge firework. The Lotte World Tower is currently the 5th highest building in the world. It's 554.5 high and has 123 floors.

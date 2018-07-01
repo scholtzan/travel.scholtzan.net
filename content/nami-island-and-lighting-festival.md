@@ -2,7 +2,7 @@
 title = "Nami Island and Lighting Garden Festival"
 date = "2017-03-04"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 After the Orientation Day a small group of exchange students, including me, decided to go to Nami Island and the "The Garden of Morning Calm" where a lighting festival took place. After about 2 hours of subway, train and shuttle bus we finally arrived at the dock of the ferry that took us to Nami Island. The island was just like a park made for tourists with random statues, paintings and buildings along the way. The scenery was quite beautiful and it is probably even more attractive during the summer months. However, for my liking the island seemed like it was artificially made for tourists and didn't have much to offer.
@@ -27,4 +27,4 @@ After walking on the island for a few hours we took the ferry back to the mainla
 <img src="https://c1.staticflickr.com/3/2937/33115232071_8446042bea_z.jpg" alt="Figures at the lighting festival">
 *Different illuminated objects*
 
-Even though it took us more than 2 hours to get there, it was definitely worth it. Also, there were not too many people, either due to the cold weather or the remote location of the garden. 
+Even though it took us more than 2 hours to get there, it was definitely worth it. Also, there were not too many people, either due to the cold weather or the remote location of the garden.

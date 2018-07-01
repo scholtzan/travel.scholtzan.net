@@ -2,7 +2,7 @@
 title = "Namsan Seoul Tower"
 date = "2017-03-25"
 type = "post"
-tags = ["Seoul Tower"]
+tags = ["Seoul Tower", "Korea"]
 +++
 
 My Korean buddy invited me to go to the Namsan Seoul Tower together with a few other exchange students. The tower is located on Namsan Mountain and can basically unmissable. However, before we started our hike to the tower we first visited the Namsangol Hanok Village which lies at the foot of Namsan Mountain.

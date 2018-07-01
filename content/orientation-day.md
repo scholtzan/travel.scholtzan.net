@@ -2,7 +2,7 @@
 title = "Orientation Day"
 date = "2017-03-02"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 Just a few days before the start of the lectures, all exchange students were invited to go to the Orientation Day. This event took place on the Humanities and Social Sciences Campus in Seoul but luckily the university provided some shuttle buses for student's from Suwon. After the one hour bus ride through Seoul and some interesting conversations with other exchange students we finally arrived at the Seoul campus.

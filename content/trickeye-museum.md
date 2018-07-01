@@ -2,7 +2,7 @@
 title = "Trick Eye Museum"
 date = "2017-03-22"
 type = "post"
-tags = ["Museum"]
+tags = ["Museum", "Korea"]
 +++
 
 Located in Hongdae is the Trick Eye Museum. Besides the actual Trick Eye Museum it also inhibits a Love Museum and an Ice Museum.

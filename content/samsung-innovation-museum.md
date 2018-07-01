@@ -2,7 +2,7 @@
 title = "Samsung Innovation Museum"
 date = "2017-03-30"
 type = "post"
-tags = ["Museum"]
+tags = ["Museum", "Korea"]
 +++
 
 On one lazy Saturday afternoon we decided to go to the Samsung Innovation Museum in Suwon. The description sounded quite interesting and entry is also free. The museum is apparently the largest electronic museum in Korea and is also located on the huge Samsung complex. We made our way to the museum and realized that the museum was surrounded by a fence and did not have an entrance. A security guard explained to use that we have to the parking lot nearby and take the elevator to get into the museum.  

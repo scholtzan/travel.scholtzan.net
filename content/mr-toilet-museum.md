@@ -2,7 +2,7 @@
 title = "Mr. Toilet Museum"
 date = "2017-03-05"
 type = "post"
-tags = ["Museum"]
+tags = ["Museum", "Korea"]
 +++
 
 About 30 minutes' walk away from our campus in Suwon there is a unique museum celebrating the improvements of toilets in Korea. The founder, who was born in a toilet, contributed extensively to improving toilets in Korea. The building itself is shaped like a toilet and in front of it is golden poo.

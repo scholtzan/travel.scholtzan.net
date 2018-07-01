@@ -2,7 +2,7 @@
 title = "Spring Festival"
 date = "2017-04-14"
 type = "post"
-tags = ["Cherry Blossoms"]
+tags = ["Cherry Blossoms", "Korea"]
 +++
 
 Spring arrived in South Korea! This means not only warmer temperatures but also blooming of cherry blossoms. Traditionally, there are several spring festivals that celebrate the start of the season. One of those festivals is the Yeongdeungpo Yeouido Spring Flower Festival. The festival takes place on the road behind the National Assembly Building. Along the road were about 1,800 cherry trees in full bloom. And also a lot of visitors.

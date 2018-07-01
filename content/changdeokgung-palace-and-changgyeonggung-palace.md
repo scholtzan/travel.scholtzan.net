@@ -2,7 +2,7 @@
 title = "Changdeokgung Palace and Changgyeonggung Palace"
 date = "2017-02-28"
 type = "post"
-tags = ["Sights"]
+tags = ["Sights", "Korea"]
 +++
 
 I took the time to visit two of the famous palaces in Seoul – Changdeokgung Palace and Changgyeonggung Palace. These palaces are located next to each other and there is also a "Secret Garden" used by the royal family to relax. I bought a "Royal Palace Pass" that allows me entrance to most of the famous palaces and shrines in Seoul and also included a guided Secret Garden tour. The pass did cost about 8€ and is valid for three months.

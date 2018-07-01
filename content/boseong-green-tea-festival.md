@@ -2,7 +2,7 @@
 title = "Boseong Green Tea Festival"
 date = "2017-05-11"
 type = "post"
-tags = ["Festival"]
+tags = ["Festival", "Korea"]
 +++
 
 A few of my friends and I got tickets for a free 2-day trip to the Boseong Green Tea Festival. Our day started quite early as we had to go to a subway station in Seoul. From there a bus took us to Boseong which is located in the south of South Korea and quite famous for its green tea. After a long bus ride it started to rain.

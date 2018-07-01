@@ -2,7 +2,7 @@
 title = "Seoul Wall Tour"
 date = "2017-05-27"
 type = "post"
-tags = ["Seoul"]
+tags = ["Seoul", "Korea"]
 +++
 
 [Funday Korea](http://fundaykorea.me/), an organization that offers free trips and other events to foreigners, offered a guided tour along the Seoul city wall. The city wall is 18.6km long, however the tour itself was only about 4km long. Our guide provided lots of interesting, historical information about the city wall.

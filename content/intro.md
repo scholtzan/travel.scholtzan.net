@@ -2,7 +2,7 @@
 title = "Intro"
 date = "2017-02-26"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 

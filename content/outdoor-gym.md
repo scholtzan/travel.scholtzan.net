@@ -2,7 +2,7 @@
 title = "Outdoor Gyms"
 date = "2017-04-15"
 type = "post"
-tags = ["Museum"]
+tags = ["Museum", "Korea"]
 +++
 
 One of the great things in South Korea is that in almost every park there is an outdoor gym. Though most of the equipment seems to be intended for old people there are also some more serious weight lifting machines. And everything is for free.

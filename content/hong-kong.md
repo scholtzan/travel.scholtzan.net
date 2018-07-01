@@ -2,7 +2,7 @@
 title = "Hong Kong"
 date = "2017-06-12"
 type = "post"
-tags = ["Hong Kong"]
+tags = ["Hong Kong", "Korea"]
 +++
 
 Right before the final exams we decided to make a short trip to Hong Kong which is relatively close to South Korea. The flight was quite cheap and it took only around three hours to get there. Right after leaving the airport we got hit by a wall of hot and humid air. The weather was really hot (more than 30 degrees) during our entire stay but at the end we started to get used to it.

@@ -2,7 +2,7 @@
 title = "SBS MTV - The Show"
 date = "2017-03-16"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 Some exchange students, including me, got free tickets for the Korean TV Show "The Show". This TV show features several K-pop groups. Although I'm not a K-pop fan, I thought it might be a great chance to dive in deeper into Korean culture. K-pop is everywhere in Korea, they even play it sometimes in the morning on the entire campus when I go to my classes.

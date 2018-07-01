@@ -2,7 +2,7 @@
 title = "The War Memorial of Korea"
 date = "2017-03-23"
 type = "post"
-tags = ["Museum"]
+tags = ["Museum", "Korea"]
 +++
 
 In the past, Korea experienced many military conflicts. The War Memorial of Korea is a fantastic site to learn more about this part of Korean history. The War Memorial consists of a small park that exhibits several statues and monuments to honor the soldiers that fought in the wars.

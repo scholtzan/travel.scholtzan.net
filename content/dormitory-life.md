@@ -2,7 +2,7 @@
 title = "Dormitory Life"
 date = "2017-04-20"
 type = "post"
-tags = ["Dormitory"]
+tags = ["Dormitory", "Korea"]
 +++
 
 All exchange student's had to decide whether they wanted to life in the dormitory or in an off-campus accommodation. I chose to stay in the dormitory, because it is directly located on the campus and I didn't need to organize an accommodation by myself. All in all, living in the dormitory is quite different from what I was used in Germany.

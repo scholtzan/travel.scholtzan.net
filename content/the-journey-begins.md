@@ -2,7 +2,7 @@
 title = "The Journey Begins"
 date = "2017-02-27"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 My journey to Seoul already started with a very pleasant surprise: before boarding the plane I received an upgrade to travel in the Premium Economy class. After 9 hours of enjoying the extra leg room, welcome drink, movies and Korean food, I safely arrived at the Incheon International Airport. After getting off the plane I made my way to immigration where after one hour of waiting the airport personal took a photos and fingerprints and stamped my passport. Fortunately, also my baggage made all the way to South Korea. Next, I was looking for an ATM to get some cash. After some searching I noticed that there are some ATMs located in the currency exchange booths. I used my collected cash to buy a ticket (only about 4€) for the AREX train that brought me to Seoul Station. From here I made my way to an accommodation that I booked on AirBnb.

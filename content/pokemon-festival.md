@@ -2,7 +2,7 @@
 title = "Pokémon Festival"
 date = "2017-05-13"
 type = "post"
-tags = ["Festival"]
+tags = ["Festival", "Korea"]
 +++
 
 We heard of a Pokémon festival taking place in Incheon and decided that we should not miss it. Already from afar we saw a lot of smaller Pikatchu statues and people taking pictures with them.

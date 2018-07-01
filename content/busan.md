@@ -2,7 +2,7 @@
 title = "Trip to Busan"
 date = "2017-05-04"
 type = "post"
-tags = ["Busan"]
+tags = ["Busan", "Korea"]
 +++
 
 Right after the midterm exams we decided to spend three days in Korea's second largest city - Busan. It is located in the South of Korea and has warmer climate and different vegetation compared to Seoul. We took a slow train to Busan (called Mugunghwa) which cost us about 50€ for one round-trip. After a 4.5h ride we arrived in Busan and made our way to our accommodation. The hostel we booked was located at Haeundae Beach which is apparently the most beautiful beach in Korea.
@@ -63,4 +63,4 @@ Inside the temple was also a huge Buddha statue, as well as a few smaller ones. 
 <img src="https://c1.staticflickr.com/5/4176/33615693513_7a3467e5b6_z.jpg" alt="Buddha statue">
 *Buddha Statue in Haedong Yonggungsa Temple*
 
-All in all, Busan is a pretty nice city. I liked it even more than Seoul because Busan was less crowded. Most of the times we even got a seat in the subway. Also the people seemed more relaxed and things were cheaper than in Seoul. I think three or four days are enough to see the most important places in Busan and I'd say it is definitely worth going there. 
+All in all, Busan is a pretty nice city. I liked it even more than Seoul because Busan was less crowded. Most of the times we even got a seat in the subway. Also the people seemed more relaxed and things were cheaper than in Seoul. I think three or four days are enough to see the most important places in Busan and I'd say it is definitely worth going there.

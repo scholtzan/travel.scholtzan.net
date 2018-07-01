@@ -2,7 +2,7 @@
 title = "Preparation"
 date = "2017-03-10"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 In the following I will provide some details about what I prepared and organized before coming to South Korea. I think this information might be particularly useful for students who also want to do an exchange semester. Some of the steps might be very specific for an exchange semester in South Korea but I think most of them can be applied to exchange semesters in general.

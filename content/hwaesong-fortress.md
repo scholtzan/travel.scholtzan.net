@@ -2,7 +2,7 @@
 title = "Hwaseong Fortress"
 date = "2017-05-14"
 type = "post"
-tags = ["Fortress"]
+tags = ["Fortress", "Korea"]
 +++
 
 Relatively close to university, in the center of Suwon located is Hwaseong Fortress. It is a massively large construction consisting of several gates, other facilities and a very long wall. It is a UNESCO World Cultural Heritage Site and more than 200 years old. Inside, some buildings contains scenes that show how people used to live in the fortress. It also inhibits a very large garden and a few watchtowers.

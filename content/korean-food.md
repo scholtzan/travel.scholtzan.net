@@ -2,7 +2,7 @@
 title = "Korean Food"
 date = "2017-06-30"
 type = "post"
-tags = ["food"]
+tags = ["Food", "Korea"]
 +++
 
 One of the things I enjoyed most during my time in Korea was the food. While a lot of food can be spicy, I did not have any problems with the spiciness. However, I think my favourite Korean dish was the Korean shaved ice cream - Bingsu. They come in some many different shapes and flavours! But also the other food I enjoyed very much. And the best part was that eating outside was quite affordable. Whenever I did not eat in the university's cafeteria, I was eating in some restaurant close to university. During the past four months I tried a lot of different foods:

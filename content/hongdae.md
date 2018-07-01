@@ -2,7 +2,7 @@
 title = "Hongdae"
 date = "2017-03-12"
 type = "post"
-tags = ["General"]
+tags = ["General", "Korea"]
 +++
 
 First week of the new semester, classes have begun but there is still some free time to explore Seoul. Together with some other exchange students I took a trip to Hongdae which is a neighborhood in Seoul that is located around Hongik university. This area has markets and a lot of street performers. There are also a lot of pet cafes.

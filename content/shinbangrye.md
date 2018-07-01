@@ -2,7 +2,7 @@
 title = "Shinbangrye"
 date = "2017-03-07"
 type = "post"
-tags = ["Shinbangrye"]
+tags = ["Shinbangrye", "Korea"]
 +++
 
 Every freshmen can join a greeting ceremony called "Shinbangrye". During this ceremony they are welcomed to the university and have to participate in some games. Although the entire ceremony was held in Korean, some exchange students were brave enough to take part in it. All students had to wear the traditional clothing consisting of a white robe and a black hat. Most of the students were freezing because it was quite cold and they couldn't wear jackets underneath.

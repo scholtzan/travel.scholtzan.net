@@ -2,7 +2,7 @@
 title = "Jeju Island"
 date = "2017-06-29"
 type = "post"
-tags = ["Jeju"]
+tags = ["Jeju", "Korea"]
 +++
 
 After finishing our exams and before leaving South Korea, we decided to visit the famous Jeju Island in the South of South Korea. Flights were relatively cheap and it was easy to find accommodation. Jeju Island is really famous for its nature, waterfalls, beautiful beaches, sea food and black pigs.
