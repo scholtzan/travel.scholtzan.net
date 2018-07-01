@@ -551,22 +551,15 @@ footer .copyright {
 
 /* --- Pager --- */
 
-.pager li a {
+.pager li a, .pager li>a, .pager li>span {
   text-transform: uppercase;
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
   background: #FFF;
-  border-radius: 0;
   margin-top: 5ex;
-
-}
-
-.pager li a:hover,
-.pager li a:focus {
-  color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  border: none;
+  border-radius: 0;
 }
 
 .pager {
