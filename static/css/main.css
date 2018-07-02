@@ -444,8 +444,7 @@ footer .copyright {
   margin: 0 0 10px;
 }
 
-.post-preview .post-meta::after,
-.post-heading .post-meta::after {
+.post-preview .post-meta::after {
   color: #808080;
   font-style: bold;
   content: ">>";
