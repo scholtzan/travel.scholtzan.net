@@ -1,6 +1,6 @@
 +++
 title = "New Adventures in Canada"
-date = "2018-07-02"
+date = "2018-07-01"
 type = "post"
 tags = ["Intro", "Canada"]
 +++
