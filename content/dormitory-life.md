@@ -11,7 +11,7 @@ All exchange student's had to decide whether they wanted to life in the dormitor
 
 All exchange student's life in the dormitory building called _Shingwan_ (which translated means "New building"). There are also several other dormitories on campus but we did not have to possibility to choose.
 
-<img src="https://c1.staticflickr.com/3/2857/32330915773_04444273bb_z.jpg" alt="Shingwan">
+{{< figure src="https://c1.staticflickr.com/3/2857/32330915773_04444273bb_z.jpg" alt="Shingwan" >}}
 *Dormitory building "Shingwan" in the background*
 
 The total cost of the dormitory is 1,700$ or 1,900$ with one meal included per day. However, during the semester we were informed that we will get ~500$ back. Inside of the dormitory is a post room, where letters and parcels are collected, there are also rooms with washing machines and a well-equipped gym (which costs ~16€/month). In addition, there is a cafeteria, a small convenience store and Domino's Pizza. Overall, the dormitory is quite modern.
@@ -22,14 +22,14 @@ We have to share our rooms with one roommate. All exchange students have Korean 
 
 The room itself has its own shower and toilet. It is equipped with beds, closets, air conditioning, chairs and desks on either side. We had to buy our own bedding and pillows.
 
-<img src="https://c1.staticflickr.com/3/2895/34151403085_9f84ed6bcc_z.jpg" alt="Dorm room">
+{{< figure src="https://c1.staticflickr.com/3/2895/34151403085_9f84ed6bcc_z.jpg" alt="Dorm room" >}}
 *My side of the dorm room*
 
 I was positively surprised about how quiet the dormitory is. Compared to my German dorm room, here the walls are soundproof. I never heard my neighbor and also no one on the corridor while being in the room.
 
 There is also a list of electronics that are allowed in the room (computers, printers, stands, chargers, hair dryers, auto power curlers, humidifier, fan, mini-vacuum). During the semester two room checks are conducted for making sure that only allowed electronics is in the room.  
 
-<img src="https://c1.staticflickr.com/3/2865/34151395895_66e9d42a37_z.jpg" alt="Dorm Floor">
+{{< figure src="https://c1.staticflickr.com/3/2865/34151395895_66e9d42a37_z.jpg" alt="Dorm Floor" >}}
 *Corridor in the dormitory*
 
 
@@ -44,7 +44,7 @@ There is also a curfew from 01:00 to 05:00. However, this curfew is only for und
 
 Inside of the dorm are entrance gates that can only be passed with a small key card. In this way only residents can enter.
 
-<img src="https://c1.staticflickr.com/3/2868/34110406456_881ce6182b_z.jpg" alt="Entrance gates">
+{{< figure src="https://c1.staticflickr.com/3/2868/34110406456_881ce6182b_z.jpg" alt="Entrance gates" >}}
 *Entrance gates*
 
 A few weeks after the start of the semester the curfew was lifted every Friday, in order to allow students to participate in various activities outside and to have an opportunity to enhance the time management. The curfew is also lifted during the exam periods.
@@ -54,7 +54,7 @@ A few weeks after the start of the semester the curfew was lifted every Friday, 
 
 Another strange thing for me is the strict separation between women and men. All floors are either women-only or men-only. Going into the room or maybe even on the floor of the opposite sex will result in getting kicked out of the dorm. There are also two rooms with washing machines: women-only and mixed. Also during the vacation period the elevators are separated by gender.
 
-<img src="https://c1.staticflickr.com/3/2923/34151395635_30fab218a4_z.jpg" alt="Only Women sign">
+{{< figure src="https://c1.staticflickr.com/3/2923/34151395635_30fab218a4_z.jpg" alt="Only Women sign" >}}
 *Only women are allowed to enter the floor*
 
 
@@ -64,7 +64,7 @@ There are a lot of surveillance cameras everywhere inside the building and also 
 
 On campus are at least four cafeterias which are all very close to the dormitory and are quite cheap. The cafeteria in our dorm building offers breakfast, lunch, snacks and dinner. There is also an open kitchen in one of the other dormitories which can be used by non-residents. However, cooking yourself is quite often not much cheaper than eating in the cafeteria.
 
-<img src="https://c1.staticflickr.com/3/2934/34151403785_4b9cef5f5a_z.jpg" alt="Lunch">
+{{< figure src="https://c1.staticflickr.com/3/2934/34151403785_4b9cef5f5a_z.jpg" alt="Lunch" >}}
 *Lunch in one of the cafeterias on campus*
 
 All things considered, living in the dorm is still good despite the rules. It is super convenient when having classes. Usually it takes me only 7 minutes to get to my classrooms.  
